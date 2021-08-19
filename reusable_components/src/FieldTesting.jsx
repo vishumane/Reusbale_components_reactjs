@@ -33,7 +33,7 @@ import * as All from './components/customfields/index';
     return (
         <div>
             <center>
-                <h3>reusbale components in reactjs</h3>
+                <h3>reusable components in reactjs</h3>
             <form id="collectdata">
             Enter your Name :<All.InputBox
                 data-testid="input"
